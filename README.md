@@ -77,11 +77,6 @@
 </table>
 
 ---
-<p align="center">
-<a href="https://github.com/saugat86">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saugat86&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>
-</a>
-</p>
 
 <h2 > Contact Me: </h2>
 
@@ -92,3 +87,41 @@ If you have any questions, comments, or would simply like to get in touch, I wou
    <a href="https://www.github.com/saugat86" alt="Mail"><img height='50' src="./assets/github.png"></a>
   <a href="https://www.linkedin.com/in/saugattiwari/" alt="Linkedin"><img height='50' src="./assets/linkedin.png"></a>
 </p>
+
+---
+
+<h3>GitHub Stats:</h3>
+
+<details>
+<summary><b>📊 GitHub Profile Stats</b></summary>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=saugat86&show_icons=true&locale=en" alt="saugat86" />
+</details>
+<details>
+  <summary><b>📈 My Top Languages</b></summary>
+
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saugat86&theme=aura" alt="saugat86" 
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saugat86&theme=aura" alt="saugat86" /></p>
+</details> 
+
+  </details>
+    <details>
+  <summary><b>📈 My Contributions</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saugat86&theme=great_gatsby" alt="saugat86" /></p>
+ 
+
+</details>
+
+<p align="center">
+<a href="https://github.com/saugat86">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saugat86&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>
+</a>
+</p>
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=saugat86&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saugat86&label=Profile%20views&color=0e75b6&style=flat" alt="saugat86" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saugat86" alt="saugat86" /></a> </p>
